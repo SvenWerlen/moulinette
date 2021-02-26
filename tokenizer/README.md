@@ -4,7 +4,7 @@ Moulinette Tokenizer is a set of tools for generating a bundle of tokens from im
 
 **Why another tokenizer ?** 
 
-There a lot of existing tokenizer application available. However, I couldn't find one supporting the following use cases:
+There a lot of existing tokenizers available. However, I couldn't find one supporting the following use cases:
 * I want to apply a different frame on an existing set of images wihtout having to redo the work manually.
 * I want to share my set of tokens with others without infringing copyright
 
@@ -46,7 +46,16 @@ The Moulinette Tokenizer processes that file by downloading the images, manipula
 
 ![](img/tokenizer-output.jpg)
 
-## Try it
+## Try it (online)
 
-...
+Visit [Moulinette Tokenizer](https://boisdechet.org/moulinette/tokenizer/task) and follow the instructions.
+
+## Try it (application)
+
+Download the application and it locally
+* [Moulinette 2.2-rc.18 for Linux 64-Bit](https://github.com/SvenWerlen/TokenTool-Moulinette/releases/download/2.2-rc.18/moulinette-2.2-rc.18.deb) (.deb)
+* [Moulinette 2.2-rc.18 for Windows 64-Bit](https://github.com/SvenWerlen/TokenTool-Moulinette/releases/download/2.2-rc.18/Moulinette-2.2-rc.18.exe) (.exe)
+
+*NOTE : this is still a pre-release and `.exe` has not been signed with a valid certificate! You'll get warnings from Windows Defender and the browser that the application is dangerous. If you are not confortable installing it, rather try the online version.*
+
 
