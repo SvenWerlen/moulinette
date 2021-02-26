@@ -16,3 +16,8 @@
 
 * [Pathfinder-FR Android](https://github.com/SvenWerlen/pathfinderfr-android): Android application for Pathfinder (French only)
 
+## Support me on Patreon
+
+If you like my work and want to support me, consider becoming a patreon or throwing a buck or two at me!
+
+[https://www.patreon.com/moulinette](https://www.patreon.com/moulinette)
