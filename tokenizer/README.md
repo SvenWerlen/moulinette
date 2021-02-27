@@ -2,6 +2,8 @@
 
 Moulinette Tokenizer is a set of tools for generating a bundle of tokens from images publicly available on the web.
 
+Try it: [Moulinette Tokenizer Demo](https://boisdechet.org/moulinette/tokenizer/task)
+
 **Why another tokenizer ?** 
 
 There a lot of existing tokenizers available. However, I couldn't find one supporting the following use cases:
@@ -44,7 +46,15 @@ Here is a sample `JSON` input file (see [dwarfs.json](https://github.com/SvenWer
 
 The Moulinette Tokenizer processes that file by downloading the images, manipulating the images and applying a frame. The result is then:
 
-![](img/tokenizer-output.jpg)
+![Samples 1](img/tokenizer-output.jpg)
+
+You can easily generate a new bundle and use another frame ...
+
+![Samples 2](img/tokenizer-output2.jpg)
+
+And reuse the images to build cards.
+
+![Cards](img/tokenizer-output-cards.jpg)
 
 ## Try it (online)
 
