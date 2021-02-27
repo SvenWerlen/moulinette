@@ -53,13 +53,12 @@ Visit [Moulinette Tokenizer](https://boisdechet.org/moulinette/tokenizer/task) a
 ## Try it (application)
 
 Download the application and it locally
-* [Moulinette 2.2-rc.18 for Linux 64-Bit](https://github.com/SvenWerlen/TokenTool-Moulinette/releases/download/2.2-rc.18/moulinette-2.2-rc.18.deb) (.deb)
-* [Moulinette 2.2-rc.18 for Windows 64-Bit](https://github.com/SvenWerlen/TokenTool-Moulinette/releases/download/2.2-rc.18/Moulinette-2.2-rc.18.exe) (.exe)
+* [Moulinette 2.2-rc.18 for Linux 64-Bit](https://github.com/SvenWerlen/moulinette-tokentool/releases/download/2.2-rc.18/moulinette-2.2-rc.18.deb) (.deb)
+* [Moulinette 2.2-rc.18 for Windows 64-Bit](https://github.com/SvenWerlen/moulinette-tokentool/releases/download/2.2-rc.18/Moulinette-2.2-rc.18.exe) (.exe)
 
 *NOTE : this is still a pre-release and `.exe` has not been signed with a valid certificate! You'll get warnings from Windows Defender and the browser that the application is dangerous. If you are not confortable installing it, rather try the online version.*
 
 ## Support me on Patreon
 
-If you like my work and want to support me, consider becoming a patreon or throwing a buck or two at me!
-
+If you like my work and want to support me, consider becoming a patreon
 [https://www.patreon.com/moulinette](https://www.patreon.com/moulinette)
