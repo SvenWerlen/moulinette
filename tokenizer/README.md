@@ -5,13 +5,13 @@ Moulinette Tokenizer is a set of tools for generating a bundle of tokens from im
 **Why another tokenizer ?** 
 
 There a lot of existing tokenizers available. However, I couldn't find one supporting the following use cases:
-* I want to apply a different frame on an existing set of images wihtout having to redo the work manually.
-* I want to share my set of tokens with others without infringing copyright
+* I want to apply a different frame on an existing set of images without having to redo the work manually.
+* I want to share my set of tokens with others without infringing copyrights
 
 **How does Moulinette Tokenizer work ?**
 
-* Moulinette Tokenizer takes as input a `JSON` file that specifies which images (publicly available on Internet) to use and some other details about how to manipulate it.
-* It downloads each of them and applies the desired transformation
+* Moulinette Tokenizer takes as input a `JSON` file that specifies which images (publicly available on Internet) to use and some other details about how to manipulate them.
+* It downloads each image and applies the desired transformation
 * It finally generates your personnal bundle and makes it available to you
 * If you want to apply another frame, you can easily reuse the same input file with other configurations and get a new bundle of tokens.
 * If you want to share the bundle with others, rather than sharing the bundle itself (images probably under copyright), you can share the input file and let others use Moulinette Tokenizer to generate their own bundle.
