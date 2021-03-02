@@ -3,6 +3,7 @@
 ## Tools
 
 * [Moulinette Tokenizer](tokenizer): Generate your own bundle of tokens in a few minutes by relying on the community and the vastness of the web
+* [Moulinette Bundler for FoundryVTT](bundler): Generate your own module for [FoundryVTT](https://foundryvtt.com/) based on packs from the community and the vastness of the web
 
 ## Modules for Foundry VTT
 
