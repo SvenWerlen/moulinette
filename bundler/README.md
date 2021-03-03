@@ -36,6 +36,10 @@ Here is a sample `JSON` file defining a playlist (see [spellcasting-chants-from-
 * Bundler generates a compendium and inserts a new entry for the playlist
 * Bundler generates a `module.json` file and finalizes the module 
 
+An example of the output of a module which includes some of the available playlists and image packs.
+
+![Sample](img/bundler.jpg)
+
 ## Try it (online)
 
 Visit [Moulinette Bundler for FoundryVTT](https://boisdechet.org/moulinette/bundler/fvtt/task) and follow the instructions.
