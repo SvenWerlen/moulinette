@@ -38,7 +38,11 @@ Here is a sample `JSON` file defining a playlist (see [spellcasting-chants-from-
 
 An example of the output of a module which includes some of the available playlists and image packs.
 
-![Sample](img/bundler.jpg)
+![Sample1](img/bundler.jpg)
+
+Another example of the output of a module which includes the scenes for Pathfinder Adventure Path "Curse of the Crimson Throne". 
+
+![Sample2](img/moulinette-bundler-scenes.jpg)
 
 ## Try it (online)
 
