@@ -1,5 +1,11 @@
 # Moulinette Bundler for Foundry VTT
 
+---
+
+:information_source: in most cases, you'll probably better appreciate the [Moulinette module for FoundryVTT](https://github.com/SvenWerlen/fvtt-moulinette).
+
+---
+
 Moulinette Bundler is a set of tools for generating a module for [FoundryVTT](https://foundryvtt.com/)  based on packs from the community and the vastness of the web.
 
 Try it: [Moulinette Bundler for FoundryVTT demo](https://boisdechet.org/moulinette/bundler/fvtt/task)
